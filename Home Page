@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Home - Michele Rose Designs</title>
+<link href="styles.css" rel="stylesheet" type="text/css">
+
+<link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css?family=Josefin+Slab" rel="stylesheet">
+
+</head>
+
+<body>
+<div id="container">
+  <div id="logo">
+    <p align="center"><a href="index.html"><img src="Images/graylogo.jpg" width="950" height="189"></a></p>
+  </div>
+  <div id="line">
+    <div align="center"><img src="Images/topbannergray.jpg" width="1310" height="70">    </div>
+  </div>
+  <div id="navigation">
+    <p align="center"><a href="index.html">Home</a> | <a href="AboutMe.html">About Me</a> | <a href="WorksOfArt.html">Works of Art</a> | <a href="Inspirations.html">Inspirations</a> | <a href="Contact.html">Contact</a></p>
+  </div>
+  <div id="main">
+    <div align="center"><img src="Images/bottombannergray.jpg" width="1310" height="70">    </div>
+  </div>
+  <div id="body">
+    <div id="insidebody">
+      <h1 align="center">WELCOME TO MY SITE!</h1>
+      <p align="center">Here you can dive into a world of paint!</p>
+      <p align="center">Visit my inspirations and about me to learn more about why I have a passion for painting!</p>
+      <p align="center">Under Contact you can find my Etsy and Ebay pages!</p>
+      <p align="center">&nbsp;</p>
+      <div id="insidecontent">
+        <div align="center"><img src="Images/sunflower.jpg" width="476" height="337"> <img src="Images/IMG_0995.jpg" width="295" height="337">        </div>
+      </div>
+    </div>
+    <div id="drips">
+      <div align="center"><img src="Images/drips.jpg" width="950" height="265">      </div>
+    </div>
+    <div id="footer">
+      <p><a href="index.html">Home</a> | <a href="AboutMe.html">About Me</a> | <a href="WorksOfArt.html">Works of Art</a> | <a href="Inspirations.html">Inspirations</a> | <a href="Contact.html">Contact</a></p>
+      <p>&copy; Michele Rose Designs | ForeverArt Paintings</p>
+      <p>2017</p>
+    </div>
+  </div>
+</div>
+</body>
+</html>
