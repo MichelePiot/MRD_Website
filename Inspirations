@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Inspirations</title>
+<link href="styles.css" rel="stylesheet" type="text/css">
+
+<link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css?family=Josefin+Slab" rel="stylesheet">
+
+
+<link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css?family=Josefin+Slab" rel="stylesheet">
+
+
+</head>
+
+<body>
+<div id="container">
+  <div id="logo"><a href="index.html"><img src="Images/graylogo.jpg" width="950" height="189"></a></div>
+  <div id="line">
+    <div align="center"><img src="Images/topbannergray.jpg" width="1310" height="70"></div>
+  </div>
+  <div id="navigation"><a href="index.html">Home</a> | <a href="AboutMe.html">About Me</a> | <a href="WorksOfArt.html">Works of Art</a> | <a href="Inspirations.html">Inspirations</a> | <a href="Contact.html">Contact</a></div>
+  <div id="main">
+    <div align="center"><img src="Images/bottombannergray.jpg" width="1310" height="70"></div>
+  </div>
+  <div id="body">
+    <div id="insidebody">
+      <h1>Inspirations</h1>
+      <div id="BeachInsp">
+        <p>The Beach </p>
+      </div>
+      <div id="beachpicins"><img src="Images/beachinspirations.jpg" width="322" height="272"></div>
+      <div id="beachinsinfo">
+        <p>I love the beach. I first visited the beach when I was 19 and in Jamaica. I fell in love with it instantly. Then I fell in love with it again when I visited Port Aransas, Texas. </p>
+        <p>Ever since these times I've felt a connection to the ocean. I express my love for the sand, waves, sky, and water in my paintings. </p>
+      </div>
+      <div id="loveinsp">Love, Flowers, &amp; Beauty</div>
+      <div id="lovepics"><img src="Images/IMG_0582.jpg" width="279" height="376"><img src="Images/shawnme.jpg" width="267" height="376"><img src="Images/rose.jpg" width="267" height="376"></div>
+      <div id="lovepicsinfo">
+        <p>Flowers are a big inspiration for me. I love to paint different flowers. My favorites are roses, tulips, and sunflowers. Each type of flower has its own meaning but they all bloom and show beauty. </p>
+        <p>&nbsp;</p>
+        <p>The most driving inspiration is love. The love for beautiful things like a sunset or a city. But most importantly, the love I share with my boyfriend is the biggest of inspirations. </p>
+      </div>
+    </div>
+    <div>
+      <div align="center"><img src="Images/drips.jpg" width="950" height="256"></div>
+      <div id="footer">
+        <p><a href="index.html">Home</a> | <a href="AboutMe.html">About Me</a> | <a href="WorksOfArt.html">Works of Art</a> | <a href="Inspirations.html">Inspirations</a> | <a href="Contact.html">Contact</a></p>
+        <p> © Michele Rose Designs | ForeverArt Paintings          </p>
+        <p>2017</p>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
