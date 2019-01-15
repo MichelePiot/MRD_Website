@@ -1,0 +1,75 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Works of Art</title>
+<link href="styles.css" rel="stylesheet" type="text/css">
+
+<link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css?family=Josefin+Slab" rel="stylesheet">
+
+
+
+
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<script type="text/javascript" src="engine0/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section --></head>
+
+<body>
+<div id="container">
+  <div id="logo"><a href="index.html"><img src="Images/graylogo.jpg" width="950" height="189"></a></div>
+  <div id="line">
+    <div align="center"><img src="Images/topbannergray.jpg" width="1310" height="70"></div>
+  </div>
+  <div id="navigation"><a href="index.html">Home</a> | <a href="AboutMe.html">About Me</a> | <a href="WorksOfArt.html">Works of Art</a> | <a href="Inspirations.html">Inspirations</a> | <a href="Contact.html">Contact</a></div>
+  <div id="main">
+    <div align="center"><img src="Images/bottombannergray.jpg" width="1310" height="70"></div>
+  </div>
+  <div id="body">
+    <div id="insidebody">
+      <h1>Works of Art</h1>
+      <div id="TableOfPics">
+        <!-- Start WOWSlider.com BODY section -->
+        <!-- add to the <body> of your page -->
+        <div id="wowslider-container0">
+          <div class="ws_images">
+            <ul>
+              <li><img src="data0/images/fullsizeoutput_6d6.jpg" alt="Oil and acrylic on canvas" title="Oil and acrylic on canvas" id="wows0_0"/></li>
+              <li><img src="data0/images/fullsizeoutput_732.jpg" alt="Oil and acrylic on canvas" title="Oil and acrylic on canvas" id="wows0_1"/></li>
+              <li><img src="data0/images/sunflower.jpg" alt="Oil on canvas" title="Oil on canvas" id="wows0_2"/></li>
+              <li><img src="data0/images/sunshine.jpg" alt="Oil and acrylic on canvas" title="Oil and acrylic on canvas" id="wows0_3"/></li>
+              <li><img src="data0/images/tree.jpg" alt="Acrylic on canvas" title="Acrylic on canvas" id="wows0_4"/></li>
+              <li><img src="data0/images/moon.jpg" alt="Acrylic on canvas" title="Acrylic on canvas" id="wows0_5"/></li>
+              <li><a href="http://wowslider.net"><img src="data0/images/pastel.jpg" alt="slider" title="Pastel on paper" id="wows0_6"/></a></li>
+              <li><img src="data0/images/atx.jpg" alt="Oil and acrylic on canvas" title="Oil and acrylic on canvas" id="wows0_7"/></li>
+            </ul>
+          </div>
+          <div class="ws_bullets">
+            <div> <a href="#" title="Oil and acrylic on canvas"><span><img src="data0/tooltips/fullsizeoutput_6d6.jpg" alt="Oil and acrylic on canvas"/>1</span></a> <a href="#" title="Oil and acrylic on canvas"><span><img src="data0/tooltips/fullsizeoutput_732.jpg" alt="Oil and acrylic on canvas"/>2</span></a> <a href="#" title="Oil on canvas"><span><img src="data0/tooltips/sunflower.jpg" alt="Oil on canvas"/>3</span></a> <a href="#" title="Oil and acrylic on canvas"><span><img src="data0/tooltips/sunshine.jpg" alt="Oil and acrylic on canvas"/>4</span></a> <a href="#" title="Acrylic on canvas"><span><img src="data0/tooltips/tree.jpg" alt="Acrylic on canvas"/>5</span></a> <a href="#" title="Acrylic on canvas"><span><img src="data0/tooltips/moon.jpg" alt="Acrylic on canvas"/>6</span></a> <a href="#" title="Pastel on paper"><span><img src="data0/tooltips/pastel.jpg" alt="Pastel on paper"/>7</span></a> <a href="#" title="Oil and acrylic on canvas"><span><img src="data0/tooltips/atx.jpg" alt="Oil and acrylic on canvas"/>8</span></a></div>
+          </div>
+          <div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">responsive slider</a> by WOWSlider.com v8.8m</div>
+          <div class="ws_shadow"></div>
+        </div>
+        <div id="worksofartinfo">
+          <p>I started with pastels when I was in high school but now I mostly work with acrylic and oil paints. I like to add both mediums into a painting. Acrylic paint lays a solid fountation of color and smooth blending.Oil paint adds a touch (or a lot) of texture you can run your fingers over and raises from the canvas. </p>
+          <p>I hope to start with a new medium soon: watercolor. There is a whole other world of watercolor left to be explored. </p>
+        </div>
+        <script type="text/javascript" src="engine0/wowslider.js"></script>
+        <script type="text/javascript" src="engine0/script.js"></script>
+        <!-- End WOWSlider.com BODY section -->
+        <p>&nbsp;</p>
+      </div>
+    </div>
+    <div id="drips"></div>
+    <div align="center"><img src="Images/drips.jpg" width="950" height="256"></div>
+  </div>
+  <div id="footer">
+    <p><a href="index.html">Home</a> | <a href="AboutMe.html">About Me</a> | <a href="WorksOfArt.html">Works of Art</a> | <a href="Inspirations.html">Inspirations</a> | <a href="Contact.html">Contact</a></p>
+    <p>© Michele Rose Designs | ForeverArt Paintings      </p>
+    <p>2017</p>
+  </div>
+</div>
+</body>
+</html>
