@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>About Me</title>
+<link href="styles.css" rel="stylesheet" type="text/css">
+
+<link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css?family=Josefin+Slab" rel="stylesheet">
+
+
+</head>
+
+<body>
+<div id="container">
+  <div id="logo"><a href="index.html"><img src="Images/graylogo.jpg" width="950" height="189"></a></div>
+  <div id="line">
+    <div align="center"><img src="Images/topbannergray.jpg" width="1310" height="70"></div>
+  </div>
+  <div id="navigation"><a href="index.html">Home</a> | <a href="#">About Me</a> | <a href="WorksOfArt.html">Works of Art</a> | <a href="Inspirations.html">Inspirations</a> | <a href="Contact.html">Contact</a></div>
+  <div id="main">
+    <div align="center"><img src="Images/bottombannergray.jpg" width="1310" height="70"></div>
+  </div>
+  <div id="body">
+    <div id="insidebody">
+      <div id="AboutMe">
+        <h1>Hello!      </h1>
+      </div>
+      <div id="AboutMeContent">
+        <p align="center">I'm Michele!</p>
+        <p align="center">I am currently a senior at the University of Minnesota-Twin CIties majoring in Psychology. Psychology drives my academic focus but my heart truley lies with art and design. This is why Michele Rose Designs and the collection ForeverArt Paintings was created - to showcase my biggest passion!        </p>
+        <p>Outside of school I enjoy a good Netflix show or sipping a glass of Chardonnay. You won’t find me at the bar on Saturday nights but snuggled up on the couch instead, next to my boyfriend enjoying the evening. I can hold my own at Mario Cart and build pretty cool theme parks in Roller Coaster Tycoon. </p>
+        <p>But most importantly, I love to paint! </p>
+        <p align="center">So, that's me, mostly... Oh yeah I also really like roses, sunflowers, and the color pink.</p>
+        <p align="center">Check out my inspirations to see more!</p>
+      </div>
+      <div id="AboutMePic"></div>
+      <a href="Inspirations.html"><img src="Images/IMG_1548.jpg" width="199" height="249"></a><a href="Inspirations.html"><img src="Images/IMG_0180.jpg" width="199" height="249"></a> </div>
+    <div id="drips">
+      <div align="center"><img src="Images/drips.jpg" width="950" height="256"></div>
+    </div>
+    <div id="footer">
+      <p><a href="index.html">Home</a> | <a href="AboutMe.html">About Me</a> | <a href="WorksOfArt.html">Works of Art</a> | <a href="Inspirations.html">Inspirations</a> | <a href="Contact.html">Contact</a></p>
+      <p>&copy; Michele Rose Designs | ForeverArt Paintings</p>
+      <p>2017</p>
+    </div>
+  </div>
+  
+</div>
+</div>
+</body>
+</html>
