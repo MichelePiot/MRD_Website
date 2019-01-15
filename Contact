@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Contact Me</title>
+<link href="styles.css" rel="stylesheet" type="text/css">
+
+<link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css?family=Josefin+Slab" rel="stylesheet">
+
+
+</head>
+
+<body>
+<div id="container">
+  <div id="logo"><a href="index.html"><img src="Images/graylogo.jpg" width="950" height="189"></a></div>
+  <div id="line">
+    <div align="center"><img src="Images/topbannergray.jpg" width="1310" height="70"></div>
+  </div>
+  <div id="navigation"><a href="index.html">Home</a> | <a href="AboutMe.html">About Me</a> | <a href="WorksOfArt.html">Works of Art</a> | <a href="Inspirations.html">Inspirations</a> | <a href="Contact.html">Contact</a></div>
+  <div id="main">
+    <div align="center"><img src="Images/bottombannergray.jpg" width="1310" height="70"></div>
+  </div>
+  <div id="body">
+    <div id="insidebody">
+      <div id="ContactMe">
+        <h1>Contact Me!</h1>
+      </div>
+      <div id="ContactMeInfo">
+        <p>You can find me on... </p>
+        <p><a href="https://www.etsy.com/shop/ForeverArtPaintings?ref=seller-platform-mcnav">Etsy</a></p>
+        <p><a href="https://www.ebay.com/usr/foreverartpaintings">Ebay</a></p>
+        <p>OR</p>
+        <p>Email me for more information!</p>
+        <p> <a href="mailto:designsbymichelerose@gmail.com">designsbymichelerose@gmail.com</a></p>
+      </div>
+    </div>
+    <div id="drips2">
+      <div align="center"><img src="Images/drips.jpg" width="950" height="256"></div>
+    </div>
+    <div id="footer">
+      <p><a href="index.html">Home</a> | <a href="AboutMe.html">About Me</a> | <a href="WorksOfArt.html">Works of Art</a> | <a href="Inspirations.html">Inspirations</a> | <a href="Contact.html">Contact</a></p>
+      <p> © Michele Rose Designs | ForeverArt Paintings </p>
+      <p>2017</p>
+    </div>
+  </div>
+</div>
+</body>
+</html>
+
